@@ -1,2 +1,0 @@
-# golang-dasar
-Pembelajaran Golang
